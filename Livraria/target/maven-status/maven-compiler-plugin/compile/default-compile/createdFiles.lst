@@ -1,0 +1,4 @@
+models\Endereco.class
+models\Livro.class
+br\unipar\livraria\Livraria.class
+models\Cliente.class
